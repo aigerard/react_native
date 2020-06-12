@@ -1,6 +1,6 @@
 # react_native
 
-[![](https://img.shields.io/badge/React%20Native-0.57-blue.svg)](https://reactjs.org/) [![](https://img.shields.io/badge/Node.js-10.15.0-yellowgreen.svg)](https://nodejs.org/en/) [![](https://img.shields.io/badge/LICENSE-MIT-green.svg)](./LICENSE)
+[![](https://img.shields.io/badge/React%20Native-0.62-blue.svg)](https://reactjs.org/) [![](https://img.shields.io/badge/Node.js-13.8.0-yellowgreen.svg)](https://nodejs.org/en/) [![](https://img.shields.io/badge/LICENSE-MIT-green.svg)](./LICENSE)
 
 More explorations into React Native.
 
